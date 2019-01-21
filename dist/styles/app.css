@@ -39,3 +39,7 @@ text.shadow {
   stroke-width: 3px;
   stroke-opacity: .8;
 }
+
+body{
+cursor: pointer;  
+}
